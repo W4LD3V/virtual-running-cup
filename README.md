@@ -1,5 +1,3 @@
-# Online Racing Platform — Minimal MVP
-
 Next.js project that shows a single weekly leaderboard for a "Most km this week" challenge. It demonstrates SSR, SSG, a single GraphQL query, SWR revalidation, unit testing, and an E2E flow.
 
 ## What this is
