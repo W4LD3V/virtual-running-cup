@@ -1,6 +1,6 @@
 # Online Racing Platform — Minimal MVP
 
-Minimal Next.js MVP that shows a single weekly leaderboard for a "Most km this week" challenge. It demonstrates SSR, SSG, a single GraphQL query, SWR revalidation, unit testing, and an E2E flow.
+Next.js project that shows a single weekly leaderboard for a "Most km this week" challenge. It demonstrates SSR, SSG, a single GraphQL query, SWR revalidation, unit testing, and an E2E flow.
 
 ## What this is
 - Weekly leaderboard for one challenge (mocked data)
@@ -40,4 +40,3 @@ npm run e2e:run
 - Only one query exists in the app: `weeklyLeaderboard`.
 - Both SSR and SWR use the same query through `graphql-request`.
 
-Test change Sun Feb  1 20:39:24 EET 2026
