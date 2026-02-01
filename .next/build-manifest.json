@@ -1,0 +1,38 @@
+{
+  "pages": {
+    "/": [
+      "static/chunks/5b445eef9bab0a23.js",
+      "static/chunks/da0ff8adaa6cce90.js",
+      "static/chunks/88120e94195b5195.js",
+      "static/chunks/49c75c2ed6206f46.js",
+      "static/chunks/2803dff71e6efbfc.css",
+      "static/chunks/turbopack-57f80fcf5fa688cb.js"
+    ],
+    "/_app": [
+      "static/chunks/fbfa6015997b8539.js",
+      "static/chunks/49c75c2ed6206f46.js",
+      "static/chunks/da0ff8adaa6cce90.js",
+      "static/chunks/turbopack-64ebb29309c07249.js"
+    ],
+    "/_error": [
+      "static/chunks/82dfd96a811c97b9.js",
+      "static/chunks/49c75c2ed6206f46.js",
+      "static/chunks/da0ff8adaa6cce90.js",
+      "static/chunks/turbopack-643f7b6ee208c237.js"
+    ],
+    "/challenge/most-km": [
+      "static/chunks/37ef4412e573c0b8.js",
+      "static/chunks/49c75c2ed6206f46.js",
+      "static/chunks/da0ff8adaa6cce90.js",
+      "static/chunks/76bdfa2eb36bc439.css",
+      "static/chunks/turbopack-ba48ebb2d69e3949.js"
+    ]
+  },
+  "devFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [
+    "static/VvxfNj6pyFq-wnuFoxlyK/_ssgManifest.js",
+    "static/VvxfNj6pyFq-wnuFoxlyK/_buildManifest.js"
+  ],
+  "rootMainFiles": []
+}

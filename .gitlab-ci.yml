@@ -1,0 +1,31 @@
+stages:
+  - install
+  - test
+  - e2e
+
+install:
+  stage: install
+  image: node:20
+  script:
+    - npm ci
+
+unit_tests:
+  stage: test
+  image: node:20
+  script:
+    - npm ci
+    - npm test
+
+end_to_end:
+  stage: e2e
+  image: node:20
+  script:
+    - npm ci
+    - npm run build
+    - npm run start &
+    - npx wait-on http://localhost:3000
+    - npm run e2e:run
+  artifacts:
+    when: always
+    paths:
+      - wdio-logs/

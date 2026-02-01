@@ -1,0 +1,53 @@
+Goal,Relevancy ,Specificity (Scope) ,Measurability (Key results),Plan (Steps),Status,Period,Achievements and artifacts,Readiness
+A brief statement of the goal,Why do you want to achieve it? Why do you need it now or in the nearest future?,"More detailed description: what exactly you want or need to have, know and be able to do.","How to understand that this goal has been achieved? This should be some specific and measurable results such as obtained certificates, received feedback, working processes, fulfilling responsibilities, performed activities etc. ","What exactly are you going to do to complete this goal? Provide a step-by-step plan with all the necessary information which you will use: links, notes, etc. ",Step  status,Time frame / deadlines,"Record everything you've done or created while achieving this goal: documents, book outlines, repositories, links to deployed websites, feedbacks, etc.",
+Learn Next,"Project uses next framework for building pages with SSR, need to catch up on this framework skills","Get solid knowledge in theoretical topics: 
+Page router
+App router
+SSR/SSG
+Page rendering optimizations
+What is layout shift
+Ways of loading server side data
+SEO optimization",Simple pet project with next application is ready,Go through next guides,Completed,7/9/2025,,100%
+,,,,Try simple next application using pages server side loading techniques,Completed,7/9/2025,,100%
+Learn GraphQL,"Project uses GraphQL to aggregate data from microservices, so need to understand how it works","Get solid knowledge in theoretical topics: 
+Queries
+Mutations
+Resolvers
+Context
+DataSources
+Unit testing of a graphql server",Simple pet project with graphql application is ready,Learn how queries and mutations are written and executed,Completed,7/9/2025,,100%
+,,,,Learn how resolvers and data sources are organised. What is a context.,In progress,9/14/2025,,0%
+,,,,Learn how to test graphql application,In progress,9/14/2025,,0%
+,,,,Try a simple graphql server and integrate loading the data into next app,In progress,9/14/2025,,0%
+Learn SWR,"Project uses SWR for client side data loading, it's useful to learn how it works and how could be used","Get solid knowledge in theoretical topics: 
+Using the library
+Caching and revalidating
+How does it integrate with next",Simple pet project with next application using SWR is ready,Go through SWR guides,Completed,7/9/2025,,100%
+,,,,Integrate SWR into next app for client side fetching,Completed,7/9/2025,,100%
+Learn e2e testing framework (Cucumber + WDIO),"Popular e2e framework, useful to know how e2e testing works","Get solid knowledge in:
+Gherkin syntax
+WDIO expect
+Elements
+Step definitions",Scenario is running successfully against pet project,Learn gherkin syntax,Completed,8/13/2025,,0%
+,,,,Setup WDIO for a pet project,In progress,9/14/2025,,0%
+,,,,Write simple test scenario for your pet project,In progress,9/14/2025,,0%
+Learn pipelines,May be useful for working on projects,"Jobs, stages, runners",That you can describe how the pipeline works,Read gitlab documentation,TODO,9/14/2025,,
+,,,,Review project pipeline,TODO,9/14/2025,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
