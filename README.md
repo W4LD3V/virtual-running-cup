@@ -39,3 +39,5 @@ npm run e2e:run
 ## GraphQL usage
 - Only one query exists in the app: `weeklyLeaderboard`.
 - Both SSR and SWR use the same query through `graphql-request`.
+
+Test change Sun Feb  1 20:39:24 EET 2026
